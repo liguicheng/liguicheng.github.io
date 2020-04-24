@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Vim使用</title>
+    <url>/2020/04/24/Vim%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<p>Linux终端使用Vim：<br>1、vi +文件名<br>2、进入文件后按i进入insert模式，修改文件<br>3、修改完成，按Esc退出insert模式<br>4、按住shift + : 冒号，输入wq，回车，保存并退出</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Github+hexo搭建个人博客</title>
+    <url>/2020/04/24/Github-hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>Github+hexo搭建个人博客</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>pip切换国内镜像下载python库</title>
+    <url>/2020/04/24/pip%E5%88%87%E6%8D%A2%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E4%B8%8B%E8%BD%BDpython%E5%BA%93/</url>
+    <content><![CDATA[<p>pip切换国内镜像下载python库：<br>清华源：pip install 库名字 -i <a href="https://pypi.tuna.tsinghua.edu.cn/simple/" target="_blank" rel="noopener">https://pypi.tuna.tsinghua.edu.cn/simple/</a><br>阿里：pip install 库名字 -i <a href="http://mirrors.aliyun.com/pypi/simple/" target="_blank" rel="noopener">http://mirrors.aliyun.com/pypi/simple/</a><br>中科大：pip install 库名字 -i <a href="http://pypi.mirrors.ustc.edu.cn/simple/" target="_blank" rel="noopener">http://pypi.mirrors.ustc.edu.cn/simple/</a><br>豆瓣：pip install 库名字 -i <a href="http://pypi.douban.com/simple/" target="_blank" rel="noopener">http://pypi.douban.com/simple/</a>  </p>
+]]></content>
+  </entry>
+</search>
