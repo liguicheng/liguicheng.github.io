@@ -42,6 +42,22 @@
       </tags>
   </entry>
   <entry>
+    <title>数据结构笔记</title>
+    <url>/2020/04/27/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>点击阅读全文可见</p>
+<a id="more"></a> 
+
+<div class="pdfobject-container" data-target="/pdf/数据结构笔记.pdf" data-height="700px"></div>
+]]></content>
+      <categories>
+        <category>考研</category>
+      </categories>
+      <tags>
+        <tag>数据结构</tag>
+        <tag>算法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>设计模式</title>
     <url>/2020/04/26/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</url>
     <content><![CDATA[<p>设计模式：类与相互通信的对象之间的组织关系，包括它们的角色、职责、协作方式等方面<br>1、抽象思维：<br>面向对象、组件封装、设计模式、架构模式  </p>
