@@ -21,25 +21,20 @@
     var CONFIG = {"hostname":"yoursite.com","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":"mac"},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":true,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":5,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta name="description" content="主要包含Java、Python、各种技术、生活感悟等">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Li Guicheng">
-<meta property="og:url" content="http://yoursite.com/archives/2020/index.html">
+  <meta name="description" content="设计模式：类与相互通信的对象之间的组织关系，包括它们的角色、职责、协作方式等方面1、抽象思维：面向对象、组件封装、设计模式、架构模式底层思维：语言构造、编译转换、内存模型、运行时机制2、处理复杂性的通用技术  ：（1）分解（2）抽象：忽视它的非本质细节，处理泛化和理想化了的模型3、面对对象设计原则：（1）依赖倒置原则抽象不应该依赖于实现细节（变化），实现细节应该依赖于抽象（稳定）（2）开放封闭原则">
+<meta property="og:type" content="article">
+<meta property="og:title" content="设计模式">
+<meta property="og:url" content="http://yoursite.com/2020/04/26/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/index.html">
 <meta property="og:site_name" content="Li Guicheng">
-<meta property="og:description" content="主要包含Java、Python、各种技术、生活感悟等">
+<meta property="og:description" content="设计模式：类与相互通信的对象之间的组织关系，包括它们的角色、职责、协作方式等方面1、抽象思维：面向对象、组件封装、设计模式、架构模式底层思维：语言构造、编译转换、内存模型、运行时机制2、处理复杂性的通用技术  ：（1）分解（2）抽象：忽视它的非本质细节，处理泛化和理想化了的模型3、面对对象设计原则：（1）依赖倒置原则抽象不应该依赖于实现细节（变化），实现细节应该依赖于抽象（稳定）（2）开放封闭原则">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2020-04-26T10:06:36.000Z">
+<meta property="article:modified_time" content="2020-04-26T10:09:40.704Z">
 <meta property="article:author" content="李桂城">
-<meta property="article:tag" content="Python">
-<meta property="article:tag" content=" Java">
-<meta property="article:tag" content=" C++">
-<meta property="article:tag" content=" Go">
-<meta property="article:tag" content=" 爬虫">
-<meta property="article:tag" content=" 深度学习">
-<meta property="article:tag" content=" 软件开发">
-<meta property="article:tag" content=" 比赛">
+<meta property="article:tag" content="设计模式">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="http://yoursite.com/archives/2020/">
+<link rel="canonical" href="http://yoursite.com/2020/04/26/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/">
 
 
 <script id="page-configurations">
@@ -47,12 +42,12 @@
   CONFIG.page = {
     sidebar: "",
     isHome : false,
-    isPost : false,
+    isPost : true,
     lang   : 'zh-CN'
   };
 </script>
 
-  <title>归档 | Li Guicheng</title>
+  <title>设计模式 | Li Guicheng</title>
   
 
 
@@ -195,116 +190,107 @@
         <div class="content-wrap">
           
 
-          <div class="content archive">
+          <div class="content post posts-expand">
             
 
+    
   
   
-  
-  <div class="post-block">
-    <div class="posts-collapse">
-      <div class="collection-title">
-        <span class="collection-header">嗯..! 目前共计 4 篇日志。 继续努力。</span>
-      </div>
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2020/04/26/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.jpg">
+      <meta itemprop="name" content="李桂城">
+      <meta itemprop="description" content="主要包含Java、Python、各种技术、生活感悟等">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Li Guicheng">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          设计模式
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2020-04-26 18:06:36 / 修改时间：18:09:40" itemprop="dateCreated datePublished" datetime="2020-04-26T18:06:36+08:00">2020-04-26</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Java/" itemprop="url" rel="index"><span itemprop="name">Java</span></a>
+                </span>
+            </span>
+              <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-eye"></i>
+                </span>
+                <span class="post-meta-item-text">阅读次数：</span>
+                <span id="busuanzi_value_page_pv"></span>
+              </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
 
       
-    <div class="collection-year">
-      <span class="collection-header">2020</span>
-    </div>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2020-04-26T18:06:36+08:00"
-              content="2020-04-26">
-          04-26
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2020/04/26/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/" itemprop="url">
-            <span itemprop="name">设计模式</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2020-04-24T22:13:51+08:00"
-              content="2020-04-24">
-          04-24
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2020/04/24/Vim%E4%BD%BF%E7%94%A8/" itemprop="url">
-            <span itemprop="name">Vim使用</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2020-04-24T22:13:33+08:00"
-              content="2020-04-24">
-          04-24
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2020/04/24/pip%E5%88%87%E6%8D%A2%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E4%B8%8B%E8%BD%BDpython%E5%BA%93/" itemprop="url">
-            <span itemprop="name">pip切换国内镜像下载python库</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2020-04-24T22:13:10+08:00"
-              content="2020-04-24">
-          04-24
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2020/04/24/Github-hexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/" itemprop="url">
-            <span itemprop="name">Github+hexo搭建个人博客</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
+        <p>设计模式：类与相互通信的对象之间的组织关系，包括它们的角色、职责、协作方式等方面<br>1、抽象思维：<br>面向对象、组件封装、设计模式、架构模式<br>底层思维：<br>语言构造、编译转换、内存模型、运行时机制<br>2、处理复杂性的通用技术  ：<br>（1）分解<br>（2）抽象：忽视它的非本质细节，处理泛化和理想化了的模型<br>3、面对对象设计原则：<br>（1）依赖倒置原则<br>抽象不应该依赖于实现细节（变化），实现细节应该依赖于抽象（稳定）<br>（2）开放封闭原则<br>对扩展开放，对更改封闭<br>（3）单一职责原则<br>一个类应该仅有一个引起变化的原因<br>（4）Liskov替换原则（LSP）<br>子类必须能够替换它们的基类<br>（5）接口隔离原则<br>接口应该小而完备<br>（6）优先使用对象组合，而不是类继承<br>（7）封装变化点<br>（8）针对接口编程，而不是针对实现编程<br>产业强盛的标志：接口标准化<br>4、重构、重构与模式<br>5、设计模式分类：<br>一、”组件协作”模式：晚期绑定，来实现框架与应用之间的松耦合<br>（1）Template Method（模版方法）<br>一个操作中的算法的骨架（稳定），而将一些步骤延迟（变化）到子类中<br>（2）Strategy（策略模式）<br>if…else，情况不固定，想到策略模式<br>（3）Observer/Event（观察者模式）<br>Event，事件，C#中，独立地改变目标与观察者，使二者的依赖关系达至松耦合。基于事件的UI框架中非常常用的设计模件<br>（比如我们要添加进度条（通知方式））通知方式的多样性，进度条，点…  </p>
+<p>二、“单一职责”模式 （划清责任）<br>1、Decorator（装饰模式）<br>原本：继承、一直继承‘过度使用、子类膨胀<br>现在：通过（组合）给一个对象添加额外的职责<br>Decorator模式比子类（继承）更加灵活（消除重复代码、减少子类个数）  </p>
+<p>纸质版已完成，此处待完善…</p>
 
     </div>
-  </div>
-  
-  
-  
 
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/" rel="tag"># 设计模式</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2020/04/24/Vim%E4%BD%BF%E7%94%A8/" rel="prev" title="Vim使用">
+      <i class="fa fa-chevron-left"></i> Vim使用
+    </a></div>
+      <div class="post-nav-item"></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
   
 
 
 
           </div>
           
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC80OTg2Ni8yNjM1Nw=="></div>
+  </div>
+  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -642,6 +628,21 @@ window.addEventListener('pjax:success', () => {
 
   
 
+<script>
+NexT.utils.loadComments(document.querySelector('#lv-container'), () => {
+  window.livereOptions = {
+    refer: location.pathname.replace(CONFIG.root, '').replace('index.html', '')
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+});
+</script>
 
     </div>
 </body>
