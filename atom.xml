@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-26T17:03:08.843Z</updated>
+  <updated>2020-04-30T15:52:42.247Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Spring_Boot码匠社区</title>
+    <link href="http://yoursite.com/2020/04/30/Spring-Boot%E7%A0%81%E5%8C%A0%E7%A4%BE%E5%8C%BA1.0/"/>
+    <id>http://yoursite.com/2020/04/30/Spring-Boot%E7%A0%81%E5%8C%A0%E7%A4%BE%E5%8C%BA1.0/</id>
+    <published>2020-04-30T15:49:36.000Z</published>
+    <updated>2020-04-30T15:52:42.247Z</updated>
+    
+    <content type="html"><![CDATA[<p>点击阅读全文可见</p><a id="more"></a> <div class="pdfobject-container" data-target="/pdf/SpringBoot码匠社区笔记1.0.pdf" data-height="700px"></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;点击阅读全文可见&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
+    
+    
+      <category term="Spring" scheme="http://yoursite.com/tags/Spring/"/>
+    
+      <category term="Spring Boot" scheme="http://yoursite.com/tags/Spring-Boot/"/>
+    
+      <category term="SSM" scheme="http://yoursite.com/tags/SSM/"/>
+    
+  </entry>
   
   <entry>
     <title>数据结构笔记</title>

@@ -14,6 +14,23 @@
       </tags>
   </entry>
   <entry>
+    <title>Spring_Boot码匠社区</title>
+    <url>/2020/04/30/Spring-Boot%E7%A0%81%E5%8C%A0%E7%A4%BE%E5%8C%BA1.0/</url>
+    <content><![CDATA[<p>点击阅读全文可见</p>
+<a id="more"></a> 
+
+<div class="pdfobject-container" data-target="/pdf/SpringBoot码匠社区笔记1.0.pdf" data-height="700px"></div>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>Spring</tag>
+        <tag>Spring Boot</tag>
+        <tag>SSM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Vim使用</title>
     <url>/2020/04/24/Vim%E4%BD%BF%E7%94%A8/</url>
     <content><![CDATA[<p>Linux终端使用Vim：<br>1、vi +文件名<br>2、进入文件后按i进入insert模式，修改文件  </p>
