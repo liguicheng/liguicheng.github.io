@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-06-15T00:02:07.002Z</updated>
+  <updated>2020-06-15T00:28:48.407Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Vim使用</title>
+    <title>Linux中opencv、torch、anaconda、scipy、pycharm、ubuntu、vmware下载</title>
     <link href="http://yoursite.com/2020/06/15/Linux%E4%B8%ADopencv%E3%80%81torch%E3%80%81anaconda%E3%80%81scipy%E3%80%81pycharm%E3%80%81ubuntu%E3%80%81vmware%E4%B8%8B%E8%BD%BD/"/>
     <id>http://yoursite.com/2020/06/15/Linux%E4%B8%ADopencv%E3%80%81torch%E3%80%81anaconda%E3%80%81scipy%E3%80%81pycharm%E3%80%81ubuntu%E3%80%81vmware%E4%B8%8B%E8%BD%BD/</id>
     <published>2020-06-14T23:40:51.000Z</published>
-    <updated>2020-06-15T00:02:07.002Z</updated>
+    <updated>2020-06-15T00:28:48.407Z</updated>
     
     <content type="html"><![CDATA[<p>由于很多软件很难下载，故本人将软件上传至百度云，以便再次下载<br>opencv-3.4.0.tar.gz<br>链接：<a href="https://pan.baidu.com/s/1GDGS7aSAFhSUTvP5Y8sHcA" target="_blank" rel="noopener">https://pan.baidu.com/s/1GDGS7aSAFhSUTvP5Y8sHcA</a><br>提取码：j5ot</p><a id="more"></a> <p>Anaconda2-4.4.0-Linux-x86_64<br>链接：<a href="https://pan.baidu.com/s/1bPvijTJoiqt4c-wV5CC-3w" target="_blank" rel="noopener">https://pan.baidu.com/s/1bPvijTJoiqt4c-wV5CC-3w</a><br>提取码：fiva<br>pycharm-community-2020.1.1.tar.gz<br>链接：<a href="https://pan.baidu.com/s/1f_kwEvH7umLHCukjArOxrQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1f_kwEvH7umLHCukjArOxrQ</a><br>提取码：ty0e<br>scipy-1.2.3-cp27-cp27mu-manylinux1_x86_64.whl<br>链接：<a href="https://pan.baidu.com/s/1qgBuP-p501_YOxcXRa9S3g" target="_blank" rel="noopener">https://pan.baidu.com/s/1qgBuP-p501_YOxcXRa9S3g</a><br>提取码：03fh<br>torch-1.4.0-cp27-cp27mu-manylinux1_x86_64.whl<br>链接：<a href="https://pan.baidu.com/s/1-KmFDFHrWzL-6exLs8usHQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1-KmFDFHrWzL-6exLs8usHQ</a><br>提取码：xrwz<br>ubuntu-19.10-desktop-amd64.iso<br>链接：<a href="https://pan.baidu.com/s/1hpKlOa5Tw6vAZWb_j65TLQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1hpKlOa5Tw6vAZWb_j65TLQ</a><br>提取码：4fig<br>vmware-pro15<br>链接：<a href="https://pan.baidu.com/s/1NBzucdw5wWjAZX9nbZua2w" target="_blank" rel="noopener">https://pan.baidu.com/s/1NBzucdw5wWjAZX9nbZua2w</a><br>提取码：8ci6</p>]]></content>
     
