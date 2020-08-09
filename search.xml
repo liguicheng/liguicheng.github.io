@@ -14,33 +14,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Ubuntu切换系统语言</title>
-    <url>/2020/06/15/Ubuntu%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%EF%BC%88%E6%AD%A4%E5%A4%84%E4%B8%BA%E6%B0%B8%E4%B9%85%E5%88%87%E6%8D%A2%E7%B3%BB%E7%BB%9F%E8%AF%AD%E8%A8%80%EF%BC%89/</url>
-    <content><![CDATA[<p>1、sudo gedit /etc/profile<br>2、在打开的文件末尾添加： export LC_ALL=zh_CN.UTF-8<br>3、source ~/.bashrc<br>4、重启之后才能生效</p>
-<a id="more"></a> 
-]]></content>
-      <categories>
-        <category>工具使用</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Linux中opencv、torch、anaconda、scipy、pycharm、ubuntu、vmware下载</title>
-    <url>/2020/06/15/Linux%E4%B8%ADopencv%E3%80%81torch%E3%80%81anaconda%E3%80%81scipy%E3%80%81pycharm%E3%80%81ubuntu%E3%80%81vmware%E4%B8%8B%E8%BD%BD/</url>
-    <content><![CDATA[<p>由于很多软件很难下载，故本人将软件上传至百度云，以便再次下载<br>opencv-3.4.0.tar.gz<br>链接：<a href="https://pan.baidu.com/s/1GDGS7aSAFhSUTvP5Y8sHcA" target="_blank" rel="noopener">https://pan.baidu.com/s/1GDGS7aSAFhSUTvP5Y8sHcA</a><br>提取码：j5ot</p>
-<a id="more"></a> 
-<p>Anaconda2-4.4.0-Linux-x86_64<br>链接：<a href="https://pan.baidu.com/s/1bPvijTJoiqt4c-wV5CC-3w" target="_blank" rel="noopener">https://pan.baidu.com/s/1bPvijTJoiqt4c-wV5CC-3w</a><br>提取码：fiva<br>pycharm-community-2020.1.1.tar.gz<br>链接：<a href="https://pan.baidu.com/s/1f_kwEvH7umLHCukjArOxrQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1f_kwEvH7umLHCukjArOxrQ</a><br>提取码：ty0e<br>scipy-1.2.3-cp27-cp27mu-manylinux1_x86_64.whl<br>链接：<a href="https://pan.baidu.com/s/1qgBuP-p501_YOxcXRa9S3g" target="_blank" rel="noopener">https://pan.baidu.com/s/1qgBuP-p501_YOxcXRa9S3g</a><br>提取码：03fh<br>torch-1.4.0-cp27-cp27mu-manylinux1_x86_64.whl<br>链接：<a href="https://pan.baidu.com/s/1-KmFDFHrWzL-6exLs8usHQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1-KmFDFHrWzL-6exLs8usHQ</a><br>提取码：xrwz<br>ubuntu-19.10-desktop-amd64.iso<br>链接：<a href="https://pan.baidu.com/s/1hpKlOa5Tw6vAZWb_j65TLQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1hpKlOa5Tw6vAZWb_j65TLQ</a><br>提取码：4fig<br>vmware-pro15<br>链接：<a href="https://pan.baidu.com/s/1NBzucdw5wWjAZX9nbZua2w" target="_blank" rel="noopener">https://pan.baidu.com/s/1NBzucdw5wWjAZX9nbZua2w</a><br>提取码：8ci6</p>
-]]></content>
-      <categories>
-        <category>软件下载</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Ubuntu中查看显卡驱动、cuda及cudnn版本</title>
     <url>/2020/08/09/Ubuntu%E4%B8%AD%E6%9F%A5%E7%9C%8B%E6%98%BE%E5%8D%A1%E9%A9%B1%E5%8A%A8%E3%80%81cuda%E5%8F%8Acudnn%E7%89%88%E6%9C%AC/</url>
     <content><![CDATA[<p>1、查看显卡驱动：</p>
@@ -61,20 +34,44 @@
       </tags>
   </entry>
   <entry>
-    <title>Spring_Boot码匠社区</title>
-    <url>/2020/04/30/Spring-Boot%E7%A0%81%E5%8C%A0%E7%A4%BE%E5%8C%BA1.0/</url>
-    <content><![CDATA[<p>点击阅读全文可见</p>
+    <title>Ubuntu切换系统语言</title>
+    <url>/2020/06/15/Ubuntu%E4%B8%AD%E6%B7%BB%E5%8A%A0%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%EF%BC%88%E6%AD%A4%E5%A4%84%E4%B8%BA%E6%B0%B8%E4%B9%85%E5%88%87%E6%8D%A2%E7%B3%BB%E7%BB%9F%E8%AF%AD%E8%A8%80%EF%BC%89/</url>
+    <content><![CDATA[<p>1、sudo gedit /etc/profile<br>2、在打开的文件末尾添加： export LC_ALL=zh_CN.UTF-8<br>3、source ~/.bashrc<br>4、重启之后才能生效</p>
 <a id="more"></a> 
-
-<div class="pdfobject-container" data-target="/pdf/SpringBoot码匠社区笔记1.0.pdf" data-height="700px"></div>
 ]]></content>
       <categories>
-        <category>Java</category>
+        <category>工具使用</category>
       </categories>
       <tags>
-        <tag>Spring</tag>
-        <tag>Spring Boot</tag>
-        <tag>SSM</tag>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Vim使用</title>
+    <url>/2020/04/24/Vim%E4%BD%BF%E7%94%A8/</url>
+    <content><![CDATA[<p>Linux终端使用Vim：<br>1、vi +文件名<br>2、进入文件后按i进入insert模式，修改文件  </p>
+<a id="more"></a> 
+<p>3、修改完成，按Esc退出insert模式<br>4、按住shift + : 冒号，输入wq，回车，保存并退出</p>
+]]></content>
+      <categories>
+        <category>工具使用</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Linux中opencv、torch、anaconda、scipy、pycharm、ubuntu、vmware下载</title>
+    <url>/2020/06/15/Linux%E4%B8%ADopencv%E3%80%81torch%E3%80%81anaconda%E3%80%81scipy%E3%80%81pycharm%E3%80%81ubuntu%E3%80%81vmware%E4%B8%8B%E8%BD%BD/</url>
+    <content><![CDATA[<p>由于很多软件很难下载，故本人将软件上传至百度云，以便再次下载<br>opencv-3.4.0.tar.gz<br>链接：<a href="https://pan.baidu.com/s/1GDGS7aSAFhSUTvP5Y8sHcA" target="_blank" rel="noopener">https://pan.baidu.com/s/1GDGS7aSAFhSUTvP5Y8sHcA</a><br>提取码：j5ot</p>
+<a id="more"></a> 
+<p>Anaconda2-4.4.0-Linux-x86_64<br>链接：<a href="https://pan.baidu.com/s/1bPvijTJoiqt4c-wV5CC-3w" target="_blank" rel="noopener">https://pan.baidu.com/s/1bPvijTJoiqt4c-wV5CC-3w</a><br>提取码：fiva<br>pycharm-community-2020.1.1.tar.gz<br>链接：<a href="https://pan.baidu.com/s/1f_kwEvH7umLHCukjArOxrQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1f_kwEvH7umLHCukjArOxrQ</a><br>提取码：ty0e<br>scipy-1.2.3-cp27-cp27mu-manylinux1_x86_64.whl<br>链接：<a href="https://pan.baidu.com/s/1qgBuP-p501_YOxcXRa9S3g" target="_blank" rel="noopener">https://pan.baidu.com/s/1qgBuP-p501_YOxcXRa9S3g</a><br>提取码：03fh<br>torch-1.4.0-cp27-cp27mu-manylinux1_x86_64.whl<br>链接：<a href="https://pan.baidu.com/s/1-KmFDFHrWzL-6exLs8usHQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1-KmFDFHrWzL-6exLs8usHQ</a><br>提取码：xrwz<br>ubuntu-19.10-desktop-amd64.iso<br>链接：<a href="https://pan.baidu.com/s/1hpKlOa5Tw6vAZWb_j65TLQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1hpKlOa5Tw6vAZWb_j65TLQ</a><br>提取码：4fig<br>vmware-pro15<br>链接：<a href="https://pan.baidu.com/s/1NBzucdw5wWjAZX9nbZua2w" target="_blank" rel="noopener">https://pan.baidu.com/s/1NBzucdw5wWjAZX9nbZua2w</a><br>提取码：8ci6</p>
+]]></content>
+      <categories>
+        <category>软件下载</category>
+      </categories>
+      <tags>
+        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -108,20 +105,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Vim使用</title>
-    <url>/2020/04/24/Vim%E4%BD%BF%E7%94%A8/</url>
-    <content><![CDATA[<p>Linux终端使用Vim：<br>1、vi +文件名<br>2、进入文件后按i进入insert模式，修改文件  </p>
-<a id="more"></a> 
-<p>3、修改完成，按Esc退出insert模式<br>4、按住shift + : 冒号，输入wq，回车，保存并退出</p>
-]]></content>
-      <categories>
-        <category>工具使用</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>算法题012排序</title>
     <url>/2020/07/28/%E7%AE%97%E6%B3%95%E9%A2%98012%E6%8E%92%E5%BA%8F/</url>
     <content><![CDATA[<p>一个数组只有0,1,2三种元素，不允许使用额外空间，每个元素只许遍历一次，将这个数组从小到大排序 </p>
@@ -135,6 +118,23 @@
       <tags>
         <tag>leetcode</tag>
         <tag>面试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Spring_Boot码匠社区</title>
+    <url>/2020/04/30/Spring-Boot%E7%A0%81%E5%8C%A0%E7%A4%BE%E5%8C%BA1.0/</url>
+    <content><![CDATA[<p>点击阅读全文可见</p>
+<a id="more"></a> 
+
+<div class="pdfobject-container" data-target="/pdf/SpringBoot码匠社区笔记1.0.pdf" data-height="700px"></div>
+]]></content>
+      <categories>
+        <category>Java</category>
+      </categories>
+      <tags>
+        <tag>Spring</tag>
+        <tag>Spring Boot</tag>
+        <tag>SSM</tag>
       </tags>
   </entry>
   <entry>
