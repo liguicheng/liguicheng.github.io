@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-10-27T02:47:30.576Z</updated>
+  <updated>2020-10-27T03:12:49.113Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>数据结构笔记</title>
+    <title>redis笔记</title>
     <link href="http://yoursite.com/2020/10/27/redis%E7%AC%94%E8%AE%B0/"/>
     <id>http://yoursite.com/2020/10/27/redis%E7%AC%94%E8%AE%B0/</id>
     <published>2020-10-27T02:45:30.000Z</published>
-    <updated>2020-10-27T02:47:30.576Z</updated>
+    <updated>2020-10-27T03:12:49.113Z</updated>
     
     <content type="html"><![CDATA[<p>点击阅读全文可见</p><a id="more"></a> <div class="pdfobject-container" data-target="/pdf/Redis笔记.pdf" data-height="700px"></div>]]></content>
     
