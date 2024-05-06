@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tech on LiGC&#39;s Blog</title>
+    <link>https://liguicheng1998.gitee.io/tags/tech/</link>
+    <description>Recent content in tech on LiGC&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 13 Jun 2023 22:45:58 +0800</lastBuildDate><atom:link href="https://liguicheng1998.gitee.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git神奇之旅</title>
+      <link>https://liguicheng1998.gitee.io/posts/tech/git%E7%A5%9E%E5%A5%87%E4%B9%8B%E6%97%85/</link>
+      <pubDate>Tue, 13 Jun 2023 22:45:58 +0800</pubDate>
+      
+      <guid>https://liguicheng1998.gitee.io/posts/tech/git%E7%A5%9E%E5%A5%87%E4%B9%8B%E6%97%85/</guid>
+      <description>第一天: 本地仓库 故事的主角是小明，一个刚入门编程的小白。他正在为一个项目写代码，但是他发现每次修改代码都很麻烦，因为他要不断地备份文件，而且很容易弄混版本。有一天，他听说了一个叫 Git 的神奇工具，可以帮助他管理代码的变化。他决定尝试一下，于是他打开了终端，输入了下面的命令： git init # 初始</description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://liguicheng1998.gitee.io/posts/tech/tech/</link>
+      <pubDate>Thu, 05 May 2022 00:17:58 +0800</pubDate>
+      
+      <guid>https://liguicheng1998.gitee.io/posts/tech/tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>资源 on LiGC&#39;s Blog</title>
+    <link>https://liguicheng1998.gitee.io/tags/%E8%B5%84%E6%BA%90/</link>
+    <description>Recent content in 资源 on LiGC&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 05 May 2022 00:18:23 +0800</lastBuildDate><atom:link href="https://liguicheng1998.gitee.io/tags/%E8%B5%84%E6%BA%90/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>建站流程</title>
+      <link>https://liguicheng1998.gitee.io/posts/resource/blog/</link>
+      <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
+      
+      <guid>https://liguicheng1998.gitee.io/posts/resource/blog/</guid>
+      <description>更新文章，使用hugo生成新的静态页面，并使用git push进行同步 sulv-hugo-papermod目录下 hugo -F --cleanDestinationDir cd public git add . git status git commit -m &amp;#34;add blog post&amp;#34; git push</description>
+    </item>
+    
+  </channel>
+</rss>

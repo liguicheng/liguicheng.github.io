@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://liguicheng1998.gitee.io/sitemap.xml
