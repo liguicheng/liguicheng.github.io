@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🧱 资源 on LiGC&#39;s Blog</title>
-    <link>https://liguicheng1998.gitee.io/posts/resource/</link>
+    <link>https://liguicheng.github.io/posts/resource/</link>
     <description>Recent content in 🧱 资源 on LiGC&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 31 Mar 2024 15:18:23 +0800</lastBuildDate><atom:link href="https://liguicheng1998.gitee.io/posts/resource/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Mar 2024 15:18:23 +0800</lastBuildDate><atom:link href="https://liguicheng.github.io/posts/resource/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>java面试八股文思维导图</title>
-      <link>https://liguicheng1998.gitee.io/posts/resource/java%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E6%96%87%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</link>
+      <link>https://liguicheng.github.io/posts/resource/java%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E6%96%87%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</link>
       <pubDate>Sun, 31 Mar 2024 15:18:23 +0800</pubDate>
       
-      <guid>https://liguicheng1998.gitee.io/posts/resource/java%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E6%96%87%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</guid>
+      <guid>https://liguicheng.github.io/posts/resource/java%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E6%96%87%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/</guid>
       <description>Java面试八股文思维导图合集</description>
     </item>
     
     <item>
       <title>建站流程</title>
-      <link>https://liguicheng1998.gitee.io/posts/resource/blog/</link>
+      <link>https://liguicheng.github.io/posts/resource/blog/</link>
       <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
       
-      <guid>https://liguicheng1998.gitee.io/posts/resource/blog/</guid>
+      <guid>https://liguicheng.github.io/posts/resource/blog/</guid>
       <description>更新文章，使用hugo生成新的静态页面，并使用git push进行同步 sulv-hugo-papermod目录下 hugo -F --cleanDestinationDir cd public git add . git status git commit -m &amp;#34;add blog post&amp;#34; git push</description>
     </item>
     
